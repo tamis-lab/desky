@@ -18,7 +18,7 @@
   "dependencies": {
     "@nut-tree-fork/libnut-darwin": "2.7.5",
     "@nut-tree-fork/libnut-linux": "2.7.5",
-    "ws": "^8.21.3"
+    "ws": "^8.22.0"
   },
   "devDependencies": {
     "electron": "44.3.0",
